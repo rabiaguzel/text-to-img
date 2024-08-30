@@ -33,8 +33,6 @@ This project aims to develop a system for generating images from text descriptio
 ## Contributing
 To contribute to this project, please submit a pull request or suggest changes through the issues page.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
 
@@ -73,5 +71,3 @@ Bu proje, metin açıklamalarından görüntü üretmeyi amaçlayan bir sistem g
 ## Katkıda Bulunma
 Bu projeye katkıda bulunmak için lütfen bir pull request gönderin veya issues sayfasından önerilerde bulunun.
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
