@@ -24,9 +24,9 @@ This project aims to develop a system for generating images from text descriptio
     ```
 
 ## Usage
-1. Run `main.py` to generate images from text descriptions:
+1. Run `texttoimg.jpynb` to generate images from text descriptions:
     ```bash
-    python main.py --text "A submarine city"
+    python texttoimg.jpynb --text "A submarine city"
     ```
 2. Images will be saved in the `outputs/` directory.
 
@@ -64,9 +64,9 @@ Bu proje, metin açıklamalarından görüntü üretmeyi amaçlayan bir sistem g
     ```
 
 ## Kullanım
-1. Metin açıklamalarından görüntü oluşturmak için `main.py` dosyasını çalıştırın:
+1. Metin açıklamalarından görüntü oluşturmak için `texttoimg.jpynb` dosyasını çalıştırın:
     ```bash
-    python main.py --text "Bir denizaltı şehri"
+    python texttoimg.jpynb --text "Bir denizaltı şehri"
     ```
 2. Görüntüler `outputs/` klasörüne kaydedilecektir.
 
